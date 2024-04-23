@@ -11,8 +11,7 @@ This project is a Shopping Management System built with PHP. It allows users to 
 - Order Tracking
 - Shopping Cart
 
-![Registration Page]("[imagesfromwebsite/register.png](https://github.com/abayalii/Shopping-Management-System/blob/39553b032a8a1edfe1301e8d40ba400d60f72dd1/imagesfromwebsite/register.png)")
-
+![Registration Page]("https://github.com/abayalii/Shopping-Management-System/blob/main/imagesfromwebsite/register.png")
 ![Login Page]("imagesfromwebsite/login.png")
 
 ![Home Page]("imagesfromwebsite/home.png")
