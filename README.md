@@ -11,4 +11,13 @@ This project is a Shopping Management System built with PHP. It allows users to 
 - Order Tracking
 - Shopping Cart
 
-![Registration Page]("C:\Users\Ali\Pictures\Screenshots\shopping1.png")
+![Registration Page]("imagesfromwebsite/register.png")
+
+![Login Page]("imagesfromwebsite/login.png")
+
+![Home Page]("imagesfromwebsite/home.png")
+
+![Basket Page]("imagesfromwebsite/basket.png")
+
+![Profile Page]("imagesfromwebsite/profile.png")
+
